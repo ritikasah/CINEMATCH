@@ -74,5 +74,8 @@ recommend('Batman Begins')
 # The Dark Knight Rises
 # 10th & Wolf
 ```
+
+![WhatsApp Image 2024-11-15 at 08 51 42_06270dd4](https://github.com/user-attachments/assets/0a12b392-8f27-4d50-b947-7270a76844f7)
+
 ## Running the Tests
 To test the recommendation system, you can call the recommend function with a movie title and verify the output.
